@@ -60,9 +60,7 @@ void printTraversal() {
 } 
 } 
 
-public class EvenBinaryTree { 
-
-// driver program to test the above function 
+public class EvenBinaryTree {  
 public static void main(String[] args) 
 { 
 	BinaryTree tree = new BinaryTree(); 
@@ -78,4 +76,3 @@ public static void main(String[] args)
 	tree.printTraversal(); 
 } 
 } 
-
